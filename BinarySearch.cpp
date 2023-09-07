@@ -34,6 +34,6 @@ int main()
         cout << "Not Found";
     }
     return 0;
-
-    // Time Complexity: O(log2(n))
+    // just added a  simple commment
+    //  Time Complexity: O(log2(n))
 }
