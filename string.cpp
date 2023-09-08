@@ -15,5 +15,7 @@ int main()
     {
         cout << "False";
     }
+    cout << endl
+         << "String size: " << x1.size();
     return 0;
 }
