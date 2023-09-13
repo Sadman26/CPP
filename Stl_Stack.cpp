@@ -8,6 +8,7 @@ int main()
     stk.push("Sadman");
     stk.push("Sakib");
     stk.push("Mahee");
+    stk.push("123");
     cout << "Stack Size: " << stk.size() << endl;
     while (!stk.empty())
     {
