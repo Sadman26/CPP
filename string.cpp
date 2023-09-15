@@ -17,5 +17,7 @@ int main()
     }
     cout << endl
          << "String size:" << x1.size();
+    cout << endl
+         << "String length:" << x1.length();
     return 0;
 }
