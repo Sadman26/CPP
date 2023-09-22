@@ -1,0 +1,8 @@
+Binary Tree 
+Full Binary Tree
+
+
+*Why we use Complete Binary Tree on Heap Sort?*
+
+
+7,3,5,12,18,1,4,8,2
