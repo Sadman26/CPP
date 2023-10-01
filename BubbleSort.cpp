@@ -1,4 +1,4 @@
-// Assalamu Alaikum 💖
+// Assalamu Alaikum 💖 not that efficient 
 // Bm.Shadman Sakib Mahee (Sadman26)
 #include <bits/stdc++.h>
 using namespace std;
